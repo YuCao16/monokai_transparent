@@ -129,3 +129,6 @@ hi markdownLink ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=
 hi markdownLinkDelimiter ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 hi markdownLinkTextDelimiter ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 hi markdownLinkText ctermfg=81 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
+hi GitGutterAdd ctermfg=197 ctermbg=NONE cterm=NONE guifg=#b3e053 guibg=NONE gui=NONE
+hi GitGutterDelete ctermfg=88 ctermbg=NONE cterm=NONE guifg=#ed6b60 guibg=NONE gui=NONE
+hi GitGutterChange ctermfg=None ctermbg=NONE cterm=NONE guifg=#a783f7 guibg=NONE gui=NONE
